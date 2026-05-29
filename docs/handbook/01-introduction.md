@@ -32,7 +32,7 @@ For any questions or recommendations feel free to contact
 youros.configuration@gmail.com. Kindly note that depending on the volume of emails it may take several days to get an answer.
 
 Adriano Fontanari
-- YourOS Official Website: https://www.youros.me
+- YourOS Official Website: https://youros.adrianofontanari.com/
 - Follow YourOS on Twitter: [@YourOS_me](https://twitter.com/YourOS_me)
 - Personal Website: https://adry-health.com/
 

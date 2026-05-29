@@ -18,7 +18,7 @@ aliases: [Adriano Fontanari, Adriano]
 - Phone: 
 - LinkedIn: https://www.linkedin.com/in/adrianofontanari/
 - Personal website: https://adry-health.com/
-- Official Website: https://www.youros.me/
+- Official Website: https://youros.adrianofontanari.com/
 - Follow YourOS on Twitter: [@YourOS_me](https://twitter.com/YourOS_me)
 ## Linked Notes
 ```dataview
