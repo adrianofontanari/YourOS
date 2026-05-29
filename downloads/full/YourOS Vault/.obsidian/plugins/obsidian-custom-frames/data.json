@@ -1,0 +1,236 @@
+{
+  "frames": [
+    {
+      "url": "https://media.webcam-hd.fr/Pariscam3_1280x960.jpg",
+      "displayName": "Paris",
+      "icon": "",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": true,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": ""
+    },
+    {
+      "url": "https://tecnoborder.github.io/Avatar/",
+      "displayName": "Avatar",
+      "icon": "",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": true,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": ""
+    },
+    {
+      "url": "https://dayspedia.com/if/digit/?v=1&iframe=eyJ3LTEyIjp0cnVlLCJ3LTExIjp0cnVlLCJ3LTEzIjpmYWxzZSwidy0xNCI6ZmFsc2UsInctMTUiOnRydWUsInctMTEwIjp0cnVlLCJ3LXdpZHRoLTAiOnRydWUsInctd2lkdGgtMSI6ZmFsc2UsInctd2lkdGgtMiI6ZmFsc2UsInctMTYiOiIwIDAgMjRweCIsInctMTkiOiI0OCIsInctMTciOiIxNiIsInctMjEiOnRydWUsImJnaW1hZ2UiOi0xLCJiZ2ltYWdlU2V0IjpmYWxzZSwidy0yMWMwIjoiIzI0MjQyNCIsInctMCI6dHJ1ZSwidy0zIjpmYWxzZSwidy0zYzAiOiIjMzQzNDM0Iiwidy0zYjAiOiIxIiwidy02IjoiI2ZmZmZmZiIsInctMjAiOmZhbHNlLCJ3LTQiOiIjMjQyNDI0Iiwidy0xOCI6ZmFsc2UsInctd2lkdGgtMmMtMCI6IjMwMCIsInctMTE1IjpmYWxzZX0=&lang=en&cityid=1586",
+      "displayName": "Time",
+      "icon": "",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": true,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": ""
+    },
+    {
+      "url": "https://indify.co/widgets/live/weather/ah6yltw4JgZx5jdX6VKJ",
+      "displayName": "Weather",
+      "icon": "",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": true,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": ""
+    },
+    {
+      "url": "https://www.lofi.cafe/",
+      "displayName": "Studio",
+      "icon": "",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": ""
+    },
+    {
+      "url": "https://embed.windy.com/embed2.html?lat=40.718&lon=-73.961&detailLat=40.765&detailLon=-73.935&width=650&height=450&zoom=11&level=surface&overlay=wind&product=ecmwf&menu=&message=true&marker=&calendar=now&pressure=&type=map&location=coordinates&detail=&metricWind=default&metricTemp=default&radarRange=-1",
+      "displayName": "Radar",
+      "icon": "sun",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": ""
+    },
+    {
+      "url": "",
+      "displayName": "YourOS Wellbeing - insights (home)",
+      "icon": "",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": true,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": ".backdrop.ng-star-inserted {\nbackground-color: #242424\n}\n\n.mat-mdc-progress-bar {\n--mdc-linear-progress-active-indicator-color: #F5D70B !important;\n--mdc-linear-progress-track-color: #242424 !important;\n}\n\n.mat-progress-spinner circle,\n.mat-mdc-progress-spinner circle,\n.mat-spinner circle {\nstroke: #F5D70B !important;\n}"
+    },
+    {
+      "url": "",
+      "displayName": "YourOS Trends",
+      "icon": "",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": true,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": ".grid-container {\n    overflow: visible;\n    background: #242424 !important;\n}\n\nbody {\n    background-color: #242424 !important;\n    color: #242424 !important;\n    font-weight: 0 !important;\n    font-size: 0 !important;\n    font-family: Roboto,RobotoDraft,Helvetica,Arial,sans-serif;\n    margin: 0 !important;\n}\n\n#footer {\n    background: #242424 !important;\n    border-top: 0px #242424 solid !important;\n    border-bottom: 1px #242424 solid !important;\n    font-size: 0 !important;\n    padding: 0px 0px !important;\n}\n\n#top-bar {\n    /* border-bottom: 0px solid #242424 !important; */\n    padding: 0px 0px 0 !important;\n}\n\n#doc-title .name {\n    font-size: 0px !important;\n}\n\n.docs-gm ::-webkit-scrollbar-thumb {\n    border-style: solid !important;\n    border-color: #242424 !important;\n    border-width: 0px !important;\n    background-color: #242424 !important;\n    border-radius: 0px !important;\n    box-shadow: none !important;\n}\n\n#top-bar {\n    border-bottom: 0px solid #242424 !important;\n    padding: 0px 0px 0 !important;\n}\n.grid-fixed-table th, .waffle th {\n    /* border: 9px solid #242424 !important; */\n    border-width: 0 0px 0px 0 !important;\n}"
+    },
+    {
+      "url": "",
+      "displayName": "YourOS Wellbeing",
+      "icon": "",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": true,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": ".backdrop.ng-star-inserted {\nbackground-color: #242424\n}\n\n.mat-mdc-progress-bar {\n--mdc-linear-progress-active-indicator-color: #F5D70B !important;\n--mdc-linear-progress-track-color: #242424 !important;\n}\n\n.mat-progress-spinner circle,\n.mat-mdc-progress-spinner circle,\n.mat-spinner circle {\nstroke: #F5D70B !important;\n}"
+    },
+    {
+      "url": "",
+      "displayName": "YourOS Leaderboard",
+      "icon": "",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": true,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": ".grid-container {\n    overflow: visible;\n    background: #242424 !important;\n}\n\nbody {\n    background-color: #242424 !important;\n    color: #242424 !important;\n    font-weight: 0 !important;\n    font-size: 0 !important;\n    font-family: Roboto,RobotoDraft,Helvetica,Arial,sans-serif;\n    margin: 0 !important;\n}\n\n#footer {\n    background: #242424 !important;\n    border-top: 0px #242424 solid !important;\n    border-bottom: 1px #242424 solid !important;\n    font-size: 0 !important;\n    padding: 0px 0px !important;\n}\n\n#top-bar {\n    /* border-bottom: 0px solid #242424 !important; */\n    padding: 0px 0px 0 !important;\n}\n\n#doc-title .name {\n    font-size: 0px !important;\n}\n\n.docs-gm ::-webkit-scrollbar-thumb {\n    border-style: solid !important;\n    border-color: #242424 !important;\n    border-width: 0px !important;\n    background-color: #242424 !important;\n    border-radius: 0px !important;\n    box-shadow: none !important;\n}\n\n#top-bar {\n    border-bottom: 0px solid #242424 !important;\n    padding: 0px 0px 0 !important;\n}\n.grid-fixed-table th, .waffle th {\n    /* border: 9px solid #242424 !important; */\n    border-width: 0 0px 0px 0 !important;\n}"
+    },
+    {
+      "url": "",
+      "displayName": "YourOS Financials - Home",
+      "icon": "",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": true,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": ".backdrop.ng-star-inserted {\nbackground-color: #242424\n}\n\n.mat-mdc-progress-bar {\n--mdc-linear-progress-active-indicator-color: #F5D70B !important;\n--mdc-linear-progress-track-color: #242424 !important;\n}\n\n.mat-progress-spinner circle,\n.mat-mdc-progress-spinner circle,\n.mat-spinner circle {\nstroke: #F5D70B !important;\n}"
+    },
+    {
+      "url": "",
+      "displayName": "YourOS - Trends",
+      "icon": "",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": true,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": ".backdrop.ng-star-inserted {\nbackground-color: #242424\n}\n\n.mat-mdc-progress-bar {\n--mdc-linear-progress-active-indicator-color: #F5D70B !important;\n--mdc-linear-progress-track-color: #242424 !important;\n}\n\n.mat-progress-spinner circle,\n.mat-mdc-progress-spinner circle,\n.mat-spinner circle {\nstroke: #F5D70B !important;\n}"
+    },
+    {
+      "url": "",
+      "displayName": "YourOS - Habits",
+      "icon": "",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": true,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": ".backdrop.ng-star-inserted {\nbackground-color: #242424\n}\n\n.mat-mdc-progress-bar {\n--mdc-linear-progress-active-indicator-color: #F5D70B !important;\n--mdc-linear-progress-track-color: #242424 !important;\n}\n\n.mat-progress-spinner circle,\n.mat-mdc-progress-spinner circle,\n.mat-spinner circle {\nstroke: #F5D70B !important;\n}"
+    },
+    {
+      "url": "",
+      "displayName": "YourOS Well-being Longitudinal Insights",
+      "icon": "",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": true,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": ".backdrop.ng-star-inserted {\nbackground-color: #242424\n}\n\n.mat-mdc-progress-bar {\n--mdc-linear-progress-active-indicator-color: #F5D70B !important;\n--mdc-linear-progress-track-color: #242424 !important;\n}\n\n.mat-progress-spinner circle,\n.mat-mdc-progress-spinner circle,\n.mat-spinner circle {\nstroke: #F5D70B !important;\n}"
+    },
+    {
+      "url": "",
+      "displayName": "YourOS Well-being Insights - days of the week",
+      "icon": "",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": true,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "YourOS Well-being Insights - days of the week"
+    },
+    {
+      "url": "",
+      "displayName": "YourOS Financial Transactions Form",
+      "icon": "",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": true,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": ".D8bnZd {\n    background-color: #242424 !important;\n}\n.RVEQke {\n    background-color: #F5D70B !important;\n}"
+    },
+    {
+      "url": "",
+      "displayName": "YourOS - Financials",
+      "icon": "",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": true,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": ".backdrop.ng-star-inserted {\nbackground-color: #242424\n}\n\n.mat-mdc-progress-bar {\n--mdc-linear-progress-active-indicator-color: #F5D70B !important;\n--mdc-linear-progress-track-color: #242424 !important;\n}\n\n.mat-progress-spinner circle,\n.mat-mdc-progress-spinner circle,\n.mat-spinner circle {\nstroke: #F5D70B !important;\n}"
+    },
+    {
+      "url": "",
+      "displayName": "YourOS Well-being Form",
+      "icon": "",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": true,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": ".D8bnZd {\n    background-color: #242424 !important;\n}\n.RVEQke {\n    background-color: #F5D70B !important;\n}"
+    },
+    {
+      "url": "",
+      "displayName": "YourOS Well-being - daily insights",
+      "icon": "",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": true,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": ".backdrop.ng-star-inserted {\nbackground-color: #242424\n}\n\n.mat-mdc-progress-bar {\n--mdc-linear-progress-active-indicator-color: #F5D70B !important;\n--mdc-linear-progress-track-color: #242424 !important;\n}\n\n.mat-progress-spinner circle,\n.mat-mdc-progress-spinner circle,\n.mat-spinner circle {\nstroke: #F5D70B !important;\n}"
+    },
+    {
+      "url": "",
+      "displayName": "YourOS Trends - Home",
+      "icon": "",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": true,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": ".grid-container {\n    overflow: visible;\n    background: #242424 !important;\n}\n\nbody {\n    background-color: #242424 !important;\n    color: #242424 !important;\n    font-weight: 0 !important;\n    font-size: 0 !important;\n    font-family: Roboto,RobotoDraft,Helvetica,Arial,sans-serif;\n    margin: 0 !important;\n}\n\n#footer {\n    background: #242424 !important;\n    border-top: 0px #242424 solid !important;\n    border-bottom: 1px #242424 solid !important;\n    font-size: 0 !important;\n    padding: 0px 0px !important;\n}\n\n#top-bar {\n    /* border-bottom: 0px solid #242424 !important; */\n    padding: 0px 0px 0 !important;\n}\n\n#doc-title .name {\n    font-size: 0px !important;\n}\n\n.docs-gm ::-webkit-scrollbar-thumb {\n    border-style: solid !important;\n    border-color: #242424 !important;\n    border-width: 0px !important;\n    background-color: #242424 !important;\n    border-radius: 0px !important;\n    box-shadow: none !important;\n}\n\n#top-bar {\n    border-bottom: 0px solid #242424 !important;\n    padding: 0px 0px 0 !important;\n}\n.grid-fixed-table th, .waffle th {\n    /* border: 9px solid #242424 !important; */\n    border-width: 0 0px 0px 0 !important;\n}"
+    },
+    {
+      "url": "https://mail.google.com/mail/u/0/",
+      "displayName": "Gmail",
+      "icon": "",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": true,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": ""
+    }
+  ],
+  "padding": 5
+}

@@ -1,0 +1,81 @@
+{
+  "confirmDeletion": true,
+  "showAddCommand": true,
+  "debug": false,
+  "editorMenu": [],
+  "fileMenu": [],
+  "leftRibbon": [
+    {
+      "id": "obsidian-hotkeys-for-specific-files:Core/🌿 This Week.md",
+      "icon": "list",
+      "name": "Hotkeys for specific files: Open Core/🌿 This Week",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-hotkeys-for-specific-files:Core/🌳 Projects.md",
+      "icon": "palmtree",
+      "name": "Hotkeys for specific files: Open Core/🌳 Projects",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-hotkeys-for-specific-files:Core/💰 Financials.md",
+      "icon": "dollar-sign",
+      "name": "Hotkeys for specific files: Open Core/💰 Financials",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-hotkeys-for-specific-files:Core/🛟 YourOS Harbour.md",
+      "icon": "anchor",
+      "name": "Hotkeys for specific files: Open Core/🛟 YourOS Harbour",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-hotkeys-for-specific-files:Books/📙 YourOS Handbook.md",
+      "icon": "book",
+      "name": "Hotkeys for specific files: Open Books/📙 YourOS Handbook",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-hotkeys-for-specific-files:Core/🪴 Today.md",
+      "icon": "circle",
+      "name": "Hotkeys for specific files: Open Core/🪴 Today",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-hotkeys-for-specific-files:Core/⚡ Well-being Analytics.md",
+      "icon": "activity",
+      "name": "Hotkeys for specific files: Open Core/⚡ Well-being Analytics",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-hotkeys-for-specific-files:Areas/🏢 Studio.md",
+      "icon": "box",
+      "name": "Hotkeys for specific files: Open Areas/🏢 Studio",
+      "mode": "any"
+    }
+  ],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [],
+  "pageHeader": [],
+  "macros": [],
+  "explorer": [],
+  "hide": {
+    "statusbar": [],
+    "leftRibbon": [
+      "Templater",
+      "Open Leaflet Map"
+    ]
+  },
+  "spacing": 8,
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 1,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": false,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 0
+  }
+}

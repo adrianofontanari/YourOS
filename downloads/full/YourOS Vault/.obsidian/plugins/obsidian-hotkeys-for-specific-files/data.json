@@ -1,0 +1,38 @@
+{
+  "files": [
+    {
+      "useMoment": false,
+      "file": "Core/🪴 Today.md"
+    },
+    {
+      "useMoment": false,
+      "file": "Core/🌿 This Week.md"
+    },
+    {
+      "useMoment": false,
+      "file": "Core/🌳 Projects.md"
+    },
+    {
+      "useMoment": false,
+      "file": "Core/🛟 YourOS Harbour.md"
+    },
+    {
+      "useMoment": false,
+      "file": "Core/💰 Financials.md"
+    },
+    {
+      "useMoment": false,
+      "file": "Core/⚡ Well-being Analytics.md"
+    },
+    {
+      "useMoment": false,
+      "file": "Books/📙 YourOS Handbook.md"
+    },
+    {
+      "useMoment": false,
+      "file": "Areas/🏢 Studio.md"
+    }
+  ],
+  "useExistingPane": true,
+  "useHoverEditor": false
+}

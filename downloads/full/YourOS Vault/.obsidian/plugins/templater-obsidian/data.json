@@ -1,0 +1,39 @@
+{
+  "command_timeout": 20,
+  "templates_folder": "Core/Templates",
+  "templates_pairs": [
+    [
+      "today",
+      "date +\"%A, %d %B %Y\""
+    ],
+    [
+      "getWeather",
+      "curl wttr.in/Cityname?format=”%l:+%c+%t+feels+like+%f/Sunrise:+%S/Sunset:++%s/Moon:++++%m”"
+    ],
+    [
+      "moment",
+      "tp.user.makeProgressBar"
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": false,
+  "enable_system_commands": true,
+  "shell_path": "",
+  "user_scripts_folder": "dev",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "",
+      "template": ""
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [
+    ""
+  ],
+  "startup_templates": [
+    ""
+  ],
+  "enable_ribbon_icon": true
+}

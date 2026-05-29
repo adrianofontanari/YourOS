@@ -1,0 +1,53 @@
+{
+  "logoType": "imagePath",
+  "logo": {
+    "lucideIcon": "",
+    "imagePath": "Attachments/YourOS Logo.png",
+    "imageLink": ""
+  },
+  "logoScale": 1.2,
+  "iconColorType": "default",
+  "wordmark": "YourOS",
+  "customFont": "interfaceFont",
+  "fontSize": "4em",
+  "fontColorType": "default",
+  "fontWeight": 600,
+  "maxResults": 5,
+  "showStarredFiles": false,
+  "showRecentFiles": true,
+  "maxRecentFiles": 5,
+  "storeRecentFile": true,
+  "showPath": true,
+  "selectionHighlight": "default",
+  "showShortcuts": true,
+  "markdownOnly": false,
+  "unresolvedLinks": false,
+  "recentFilesStore": [
+    {
+      "filepath": "Core/🏡 Home.md",
+      "timestamp": 1709672019383
+    },
+    {
+      "filepath": "Core/⚡ Well-being Analytics.md",
+      "timestamp": 1709672015882
+    },
+    {
+      "filepath": "Core/💰 Financials.md",
+      "timestamp": 1709672011871
+    },
+    {
+      "filepath": "Core/🛟 YourOS Harbour.md",
+      "timestamp": 1709672007163
+    },
+    {
+      "filepath": "People/Adriano Fontanari.md",
+      "timestamp": 1709671980220
+    }
+  ],
+  "starredFileStore": [],
+  "searchDelay": 0,
+  "replaceNewTabs": true,
+  "newTabOnStart": false,
+  "closePreviousSessionTabs": false,
+  "omnisearch": false
+}

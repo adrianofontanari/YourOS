@@ -1,0 +1,33 @@
+{
+  "accentColor": "#f4ef48",
+  "cssTheme": "Minimal",
+  "enabledCssSnippets": [
+    "Open daily note",
+    "Home",
+    "YourOS Main",
+    "MCL Multi Column",
+    "Open Harbour",
+    "Open Today",
+    "Open Random Note",
+    "Open Home",
+    "Open Insights",
+    "Open Financials",
+    "Open Graph View",
+    "Open Mic",
+    "Open Projects",
+    "Open this week",
+    "Open YourOS Handbook",
+    "Loading screen tweak",
+    "Open Well-being Analytics",
+    "Open Studio",
+    "Open Create new canvas",
+    "Open command palette",
+    "Open quick switcher",
+    "custom-menu-order.css",
+    "Open Full Calendar",
+    "Open Calendar"
+  ],
+  "theme": "obsidian",
+  "nativeMenus": true,
+  "baseFontSize": 17
+}

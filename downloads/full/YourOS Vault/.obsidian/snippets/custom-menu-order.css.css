@@ -1,0 +1,70 @@
+.side-dock-actions .side-dock-ribbon-action[aria-label*="Open homepage"] {
+  order: -60;
+}
+
+.side-dock-actions .side-dock-ribbon-action[aria-label*="Open graph view"] {
+  order: -50;
+}
+
+.side-dock-actions .side-dock-ribbon-action[aria-label*="Open today"] {
+  order: -40;
+}
+
+.side-dock-actions .side-dock-ribbon-action[aria-label*="Open Full Calendar"] {
+  order: -35;
+}
+
+.side-dock-actions .side-dock-ribbon-action[aria-label*="Hotkeys for specific files: Open Core/🪴 Today"] {
+  order: -30;
+}
+
+.side-dock-actions .side-dock-ribbon-action[aria-label*="Hotkeys for specific files: Open Core/🌿 This Week"] {
+  order: -20;
+}
+
+.side-dock-actions .side-dock-ribbon-action[aria-label*="Hotkeys for specific files: Open Core/🌳 Project"] {
+  order: -10;
+}
+
+.side-dock-actions .side-dock-ribbon-action[aria-label*="Hotkeys for specific files: Open Core/🏢 Studio"] {
+  order: 20;
+}
+
+.side-dock-actions .side-dock-ribbon-action[aria-label*="Hotkeys for specific files: Open Core/💰 Financials"] {
+  order: 30;
+}
+
+.side-dock-actions .side-dock-ribbon-action[aria-label*="Hotkeys for specific files: Open Core/🛟 YourOS Harbour"] {
+  order: 40;
+}
+
+.side-dock-actions .side-dock-ribbon-action[aria-label*="Start/stop recording"] {
+  order: 50;
+}
+
+.side-dock-actions .side-dock-ribbon-action[aria-label*="Create new canvas"] {
+  order: 60;
+}
+
+.side-dock-actions .side-dock-ribbon-action[aria-label*="Open command palette"] {
+  order: 70;
+}
+
+.side-dock-actions .side-dock-ribbon-action[aria-label*="Open quick switcher"] {
+  order: 80;
+}
+
+.side-dock-actions .side-dock-ribbon-action[aria-label*="Open random note"] {
+  order: 90;
+}
+
+.side-dock-actions .side-dock-ribbon-action[aria-label*="Hotkeys for specific files: Open Books/📙 YourOS Handbook"] {
+  order: 100;
+}
+
+
+
+
+
+
+

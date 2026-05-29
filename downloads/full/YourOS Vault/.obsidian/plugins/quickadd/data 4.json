@@ -1,0 +1,978 @@
+{
+  "choices": [
+    {
+      "id": "6d12760d-b03e-46a4-9acd-544365bb9741",
+      "name": "☑️ New Task",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "Resources/🌿 This Week.md",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": false,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": true,
+        "format": "{{VALUE}} - 📅 {{DATE:YYYY-MM-DD}} "
+      },
+      "insertAfter": {
+        "enabled": true,
+        "after": "## To do",
+        "insertAtEnd": true,
+        "createIfNotFound": true,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": false,
+      "task": true,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "76c2f3af-d918-48ac-8a7f-fd192a867e30",
+      "name": "↻ Log Habit",
+      "type": "Macro",
+      "command": true,
+      "macroId": "f66e7746-638c-434f-b516-81811fd0c454"
+    },
+    {
+      "id": "e5448e06-d128-4471-bc62-980f013acf6e",
+      "name": "💭 Journal Entry",
+      "type": "Macro",
+      "command": true,
+      "macroId": "57c7c984-1462-4b48-9425-0b689990a32b"
+    },
+    {
+      "id": "0abd6abe-02b5-47c6-9fa9-5d68770adeaf",
+      "name": "🌱 New Seed",
+      "type": "Macro",
+      "command": true,
+      "macroId": "25edd5e4-8706-40fe-8bc7-11a6c9dd3972"
+    },
+    {
+      "id": "4fb60e27-e06a-4f7b-82b1-091e0e46b534",
+      "name": "📋 Quick Note",
+      "type": "Macro",
+      "command": true,
+      "macroId": "39333781-24ab-4dc4-a9d7-c78091383695"
+    },
+    {
+      "id": "1a284fe5-40d9-4f9d-a5c1-df26f090021c",
+      "name": "🎯 New Goal",
+      "type": "Macro",
+      "command": true,
+      "macroId": "0110809a-1d03-44bb-aad3-231cf60db323"
+    },
+    {
+      "id": "a5d8178c-e454-45c4-9430-8fc2b71135cf",
+      "name": "📅 New Event",
+      "type": "Macro",
+      "command": true,
+      "macroId": "d6a9c400-b3ee-4f3d-a9c1-ba5854191ed9"
+    },
+    {
+      "id": "d5de8ab0-23cc-45d1-8891-6fdb5e1be327",
+      "name": "👷 New Project",
+      "type": "Macro",
+      "command": true,
+      "macroId": "63d1d455-882d-45b0-b3ab-d00494d058b8"
+    },
+    {
+      "id": "5f1f3d86-cc89-46b9-8994-b972117226e9",
+      "name": "💬 New Meeting",
+      "type": "Macro",
+      "command": true,
+      "macroId": "8d5a2539-acb5-4b62-8a61-677c0814d0a1"
+    },
+    {
+      "id": "3ed60438-71b8-4c7c-b9e2-33e53822d155",
+      "name": "🎬 New Movie",
+      "type": "Macro",
+      "command": false,
+      "macroId": "ffeff4c1-50f5-448b-b513-4221dafbc728"
+    },
+    {
+      "id": "048ad989-1123-46fd-a2cc-460e886b528b",
+      "name": "🛒 Wish List Item",
+      "type": "Macro",
+      "command": true,
+      "macroId": "e22be3a7-822b-4d0f-994d-685e2bdcc662"
+    },
+    {
+      "id": "2bfbc6d7-42cd-46ea-830a-e8df22610fbe",
+      "name": "📍 New Place",
+      "type": "Macro",
+      "command": true,
+      "macroId": "970bf711-8b73-4c9b-b98b-e32575df0763"
+    },
+    {
+      "id": "c2277c47-c9c0-4011-812d-903f0e91c1ad",
+      "name": "🎮 New game",
+      "type": "Macro",
+      "command": false,
+      "macroId": "863532c6-8615-4cd3-b49d-055a3cb93c05"
+    },
+    {
+      "id": "3c2dbe38-0923-458b-b1d2-0e4288826c5d",
+      "name": "New Device",
+      "type": "Macro",
+      "command": true,
+      "macroId": "40a669cf-aa7c-4aa3-a365-5fd37f42a0c7"
+    },
+    {
+      "id": "653dab9f-745a-4764-bdb3-59cf14437863",
+      "name": "🌻 New Area",
+      "type": "Macro",
+      "command": true,
+      "macroId": "96bc63be-12bb-4594-b604-3c403a39f483"
+    },
+    {
+      "id": "9e847398-2cfc-4a3e-9f18-0202579a7a73",
+      "name": "👤 New Person",
+      "type": "Macro",
+      "command": true,
+      "macroId": "9bbafb6f-a517-4e61-a49b-ad4faf457ed8"
+    },
+    {
+      "id": "4e51ed10-8d0f-40ea-9b3f-377ab6a255b9",
+      "name": "📜 Log Quote",
+      "type": "Macro",
+      "command": true,
+      "macroId": "e6800de5-84a7-4f6b-a078-65d28ac749cd"
+    },
+    {
+      "id": "ab034f12-bfc2-40ac-9ad8-e299966e323f",
+      "name": "🏺 Log Memory",
+      "type": "Macro",
+      "command": true,
+      "macroId": "017049b0-d4c9-4950-be8c-c10f111991c0"
+    }
+  ],
+  "macros": [
+    {
+      "name": "☑️ New Task",
+      "id": "4c05a50e-cb32-47e2-a0d8-916a0fa07545",
+      "commands": [
+        {
+          "name": "Untitled Capture Choice",
+          "type": "NestedChoice",
+          "id": "2a654e16-22a6-4ea2-be79-234cd4fa04f6",
+          "choice": {
+            "id": "72a3bbf1-f540-4ea7-87c9-2e62ab9fa836",
+            "name": "Untitled Capture Choice",
+            "type": "Capture",
+            "command": false,
+            "appendLink": false,
+            "captureTo": "Resources/🗃️ Archive.md",
+            "captureToActiveFile": false,
+            "createFileIfItDoesntExist": {
+              "enabled": false,
+              "createWithTemplate": false,
+              "template": ""
+            },
+            "format": {
+              "enabled": true,
+              "format": "{{VALUE}} - 📅 {{DATE:YYYY-MM-DD}} "
+            },
+            "insertAfter": {
+              "enabled": false,
+              "after": "",
+              "insertAtEnd": false,
+              "createIfNotFound": false,
+              "createIfNotFoundLocation": "top"
+            },
+            "prepend": true,
+            "task": true,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": false,
+            "openFileInMode": "default"
+          }
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "🎯  Add Goal",
+      "id": "0110809a-1d03-44bb-aad3-231cf60db323",
+      "commands": [
+        {
+          "name": "Untitled Template Choice",
+          "type": "NestedChoice",
+          "id": "3e7d3063-1a91-499a-b4c7-a2e96d51f98c",
+          "choice": {
+            "id": "5b7b1697-6dab-4702-80a1-d0cc42f2cd1b",
+            "name": "Untitled Template Choice",
+            "type": "Template",
+            "command": false,
+            "templatePath": "Templates/Goal.md",
+            "fileNameFormat": {
+              "enabled": true,
+              "format": "{{VALUE: New Goal}} - {{DATE}}"
+            },
+            "folder": {
+              "enabled": true,
+              "folders": [
+                "Goals"
+              ],
+              "chooseWhenCreatingNote": false,
+              "createInSameFolderAsActiveFile": false
+            },
+            "appendLink": false,
+            "openFileInNewTab": {
+              "enabled": true,
+              "direction": "vertical",
+              "focus": false
+            },
+            "openFile": true,
+            "openFileInMode": "default",
+            "setFileExistsBehavior": true,
+            "fileExistsMode": "Increment the file name"
+          }
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "👷 Add Project",
+      "id": "63d1d455-882d-45b0-b3ab-d00494d058b8",
+      "commands": [
+        {
+          "name": "Untitled Template Choice",
+          "type": "NestedChoice",
+          "id": "9068a477-b9b9-499e-9b94-71366ef5c04c",
+          "choice": {
+            "id": "1ff01814-e800-4397-9449-35298d6495cd",
+            "name": "Untitled Template Choice",
+            "type": "Template",
+            "command": false,
+            "templatePath": "Templates/Project.md",
+            "fileNameFormat": {
+              "enabled": true,
+              "format": "{{VALUE: New Project }} - {{DATE}}"
+            },
+            "folder": {
+              "enabled": true,
+              "folders": [
+                "Projects"
+              ],
+              "chooseWhenCreatingNote": false,
+              "createInSameFolderAsActiveFile": false
+            },
+            "appendLink": false,
+            "openFileInNewTab": {
+              "enabled": true,
+              "direction": "vertical",
+              "focus": false
+            },
+            "openFile": true,
+            "openFileInMode": "default",
+            "setFileExistsBehavior": true,
+            "fileExistsMode": "Increment the file name"
+          }
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "💬 New Meeting",
+      "id": "8d5a2539-acb5-4b62-8a61-677c0814d0a1",
+      "commands": [
+        {
+          "name": "Untitled Template Choice",
+          "type": "NestedChoice",
+          "id": "a85906ed-a31a-46de-a2d3-361e49299226",
+          "choice": {
+            "id": "8893b269-811f-4c45-91e3-edf865b38dbd",
+            "name": "Untitled Template Choice",
+            "type": "Template",
+            "command": false,
+            "templatePath": "Templates/Meeting Note.md",
+            "fileNameFormat": {
+              "enabled": true,
+              "format": "{{VALUE: New Meeting }} - {{DATE}}"
+            },
+            "folder": {
+              "enabled": true,
+              "folders": [
+                "Meetings"
+              ],
+              "chooseWhenCreatingNote": false,
+              "createInSameFolderAsActiveFile": false
+            },
+            "appendLink": false,
+            "openFileInNewTab": {
+              "enabled": true,
+              "direction": "vertical",
+              "focus": false
+            },
+            "openFile": true,
+            "openFileInMode": "default",
+            "setFileExistsBehavior": true,
+            "fileExistsMode": "Increment the file name"
+          }
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "🎬 New Movie",
+      "id": "ffeff4c1-50f5-448b-b513-4221dafbc728",
+      "commands": [
+        {
+          "name": "movies",
+          "type": "UserScript",
+          "id": "d49ecb34-4036-4e2b-bbac-e70ce0f9dc9b",
+          "path": "dev/movies.js",
+          "settings": {
+            "OMDb API Key": "a7f95ec4"
+          }
+        },
+        {
+          "name": "Untitled Template Choice",
+          "type": "NestedChoice",
+          "id": "f5255b74-1314-4896-b277-b8ac2683074a",
+          "choice": {
+            "id": "0d9b9e3c-e5fd-483e-b043-c6d6fd3900ff",
+            "name": "Untitled Template Choice",
+            "type": "Template",
+            "command": false,
+            "templatePath": "Templates/Movie_template.md",
+            "fileNameFormat": {
+              "enabled": true,
+              "format": "{{VALUE:fileName}}"
+            },
+            "folder": {
+              "enabled": true,
+              "folders": [
+                "Movies"
+              ],
+              "chooseWhenCreatingNote": false,
+              "createInSameFolderAsActiveFile": false
+            },
+            "appendLink": false,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": true,
+            "openFileInMode": "default",
+            "setFileExistsBehavior": true,
+            "fileExistsMode": "Increment the file name"
+          }
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "📍 New Place",
+      "id": "970bf711-8b73-4c9b-b98b-e32575df0763",
+      "commands": [
+        {
+          "name": "Untitled Template Choice",
+          "type": "NestedChoice",
+          "id": "b6156f7a-4c56-406c-92a0-c8c74609a783",
+          "choice": {
+            "id": "3cd2662a-9b9d-446d-8ea4-8a146b22b979",
+            "name": "Untitled Template Choice",
+            "type": "Template",
+            "command": false,
+            "templatePath": "Templates/📍Place.md",
+            "fileNameFormat": {
+              "enabled": true,
+              "format": "{{VALUE: 📍 New Place}} - {{DATE}}"
+            },
+            "folder": {
+              "enabled": true,
+              "folders": [
+                "Business Reviews"
+              ],
+              "chooseWhenCreatingNote": false,
+              "createInSameFolderAsActiveFile": false
+            },
+            "appendLink": false,
+            "openFileInNewTab": {
+              "enabled": true,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": true,
+            "openFileInMode": "default",
+            "setFileExistsBehavior": true,
+            "fileExistsMode": "Increment the file name"
+          }
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "🎮 New Game",
+      "id": "863532c6-8615-4cd3-b49d-055a3cb93c05",
+      "commands": [
+        {
+          "name": "script_videogames_quickAdd",
+          "type": "UserScript",
+          "id": "fa18f78a-9924-456b-9057-ce1dfd274218",
+          "path": "Developer/script_videogames_quickAdd.js",
+          "settings": {
+            "IGDB API Client ID": "dtbpyvtq9hddzyy0vsruz24x3hdq2c",
+            "IGDB API Client secret": "2osidtadh0zflup2gcdl4lt3xdn4ky"
+          }
+        },
+        {
+          "name": "Untitled Template Choice",
+          "type": "NestedChoice",
+          "id": "4e1e608f-e1b1-42bf-9b67-6d7d44d7fe88",
+          "choice": {
+            "id": "acbf2461-49d8-4e76-80bb-7b558b046c7b",
+            "name": "Untitled Template Choice",
+            "type": "Template",
+            "command": false,
+            "templatePath": "Templates/Games_template.md",
+            "fileNameFormat": {
+              "enabled": true,
+              "format": "{{VALUE:fileName}}"
+            },
+            "folder": {
+              "enabled": true,
+              "folders": [
+                "Games"
+              ],
+              "chooseWhenCreatingNote": false,
+              "createInSameFolderAsActiveFile": false
+            },
+            "appendLink": false,
+            "openFileInNewTab": {
+              "enabled": true,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": true,
+            "openFileInMode": "default",
+            "setFileExistsBehavior": true,
+            "fileExistsMode": "Increment the file name"
+          }
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "New Device",
+      "id": "40a669cf-aa7c-4aa3-a365-5fd37f42a0c7",
+      "commands": [
+        {
+          "name": "Untitled Template Choice",
+          "type": "NestedChoice",
+          "id": "ea2a034b-43f8-453d-9571-559950c0d539",
+          "choice": {
+            "id": "7158b99f-1409-4645-a1ed-e9afacfe645e",
+            "name": "Untitled Template Choice",
+            "type": "Template",
+            "command": false,
+            "templatePath": "Templates/Device_template.md",
+            "fileNameFormat": {
+              "enabled": true,
+              "format": "{{VALUE: New Device}}"
+            },
+            "folder": {
+              "enabled": true,
+              "folders": [
+                "Devices"
+              ],
+              "chooseWhenCreatingNote": false,
+              "createInSameFolderAsActiveFile": false
+            },
+            "appendLink": false,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": false,
+            "openFileInMode": "default",
+            "setFileExistsBehavior": true,
+            "fileExistsMode": "Increment the file name"
+          }
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "🛒 Wish List Item",
+      "id": "e22be3a7-822b-4d0f-994d-685e2bdcc662",
+      "commands": [
+        {
+          "name": "Add item to 🛒 Wish List",
+          "type": "NestedChoice",
+          "id": "a317efbf-255f-478f-88aa-b456b392c119",
+          "choice": {
+            "id": "aeb1f094-56e5-4b21-a495-c63e81636af4",
+            "name": "Add item to 🛒 Wish List",
+            "type": "Capture",
+            "command": false,
+            "appendLink": false,
+            "captureTo": "Resources/🛒 Wish List.md",
+            "captureToActiveFile": false,
+            "createFileIfItDoesntExist": {
+              "enabled": false,
+              "createWithTemplate": false,
+              "template": ""
+            },
+            "format": {
+              "enabled": false,
+              "format": ""
+            },
+            "insertAfter": {
+              "enabled": false,
+              "after": "",
+              "insertAtEnd": false,
+              "createIfNotFound": false,
+              "createIfNotFoundLocation": "top"
+            },
+            "prepend": true,
+            "task": true,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": false,
+            "openFileInMode": "default"
+          }
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "🌻 New Area",
+      "id": "96bc63be-12bb-4594-b604-3c403a39f483",
+      "commands": [
+        {
+          "name": "New Area",
+          "type": "NestedChoice",
+          "id": "0b151b82-7ca7-4cf5-8a2d-dde4af925324",
+          "choice": {
+            "id": "9cca348a-cc01-4eb4-a94a-f3ea7ac461f6",
+            "name": "New Area",
+            "type": "Template",
+            "command": false,
+            "templatePath": "Templates/Area.md",
+            "fileNameFormat": {
+              "enabled": true,
+              "format": "{{VALUE: New Area}}"
+            },
+            "folder": {
+              "enabled": true,
+              "folders": [
+                "Areas"
+              ],
+              "chooseWhenCreatingNote": false,
+              "createInSameFolderAsActiveFile": false
+            },
+            "appendLink": false,
+            "openFileInNewTab": {
+              "enabled": true,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": true,
+            "openFileInMode": "default",
+            "setFileExistsBehavior": true,
+            "fileExistsMode": "Increment the file name"
+          }
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "📅 New Event",
+      "id": "d6a9c400-b3ee-4f3d-a9c1-ba5854191ed9",
+      "commands": [
+        {
+          "name": "📅 Event",
+          "type": "NestedChoice",
+          "id": "6669acbe-1d8e-4df7-8f4d-dd01962c36fa",
+          "choice": {
+            "id": "960234ca-efaa-4c62-a6ef-e61ce85877a1",
+            "name": "📅 Event",
+            "type": "Template",
+            "command": false,
+            "templatePath": "Templates/Event.md",
+            "fileNameFormat": {
+              "enabled": true,
+              "format": "{{VALUE: New Event}}"
+            },
+            "folder": {
+              "enabled": true,
+              "folders": [
+                "Events"
+              ],
+              "chooseWhenCreatingNote": false,
+              "createInSameFolderAsActiveFile": false
+            },
+            "appendLink": false,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": false,
+            "openFileInMode": "default",
+            "setFileExistsBehavior": true,
+            "fileExistsMode": "Increment the file name"
+          }
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "🌱 New Seed",
+      "id": "25edd5e4-8706-40fe-8bc7-11a6c9dd3972",
+      "commands": [
+        {
+          "name": "🌱 New Seed",
+          "type": "NestedChoice",
+          "id": "8aae1dca-e3ed-4f8d-9cbb-554ac0d47bb3",
+          "choice": {
+            "id": "31b0c128-15fd-4aeb-823d-db0f6e813d72",
+            "name": "🌱 New Seed",
+            "type": "Capture",
+            "command": false,
+            "appendLink": false,
+            "captureTo": "Resources/👨🏼‍🌾 Garden.md",
+            "captureToActiveFile": false,
+            "createFileIfItDoesntExist": {
+              "enabled": false,
+              "createWithTemplate": false,
+              "template": ""
+            },
+            "format": {
+              "enabled": false,
+              "format": ""
+            },
+            "insertAfter": {
+              "enabled": true,
+              "after": "## # 🌱 Seeds ",
+              "insertAtEnd": true,
+              "createIfNotFound": false,
+              "createIfNotFoundLocation": "top"
+            },
+            "prepend": false,
+            "task": true,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": false,
+            "openFileInMode": "default"
+          }
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "💭 Journal Entry",
+      "id": "57c7c984-1462-4b48-9425-0b689990a32b",
+      "commands": [
+        {
+          "name": "💭 Journal Entry",
+          "type": "NestedChoice",
+          "id": "187937ff-bccd-4ccc-a6b8-c48a932f9afe",
+          "choice": {
+            "id": "85f9bde2-d693-44a6-aabe-3ed73ef00b00",
+            "name": "💭 Journal Entry",
+            "type": "Capture",
+            "command": false,
+            "appendLink": false,
+            "captureTo": "Journal/2023/{{DATE:YYYY-MM-DD}}.md",
+            "captureToActiveFile": false,
+            "createFileIfItDoesntExist": {
+              "enabled": false,
+              "createWithTemplate": false,
+              "template": ""
+            },
+            "format": {
+              "enabled": true,
+              "format": "- {{value}} \\n"
+            },
+            "insertAfter": {
+              "enabled": true,
+              "after": "### Today's thoughts/insights...",
+              "insertAtEnd": true,
+              "createIfNotFound": false,
+              "createIfNotFoundLocation": "bottom"
+            },
+            "prepend": false,
+            "task": false,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": false,
+            "openFileInMode": "default"
+          }
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "👤 New Person",
+      "id": "9bbafb6f-a517-4e61-a49b-ad4faf457ed8",
+      "commands": [
+        {
+          "name": "Untitled Template Choice",
+          "type": "NestedChoice",
+          "id": "6160f895-65ea-412a-955c-39c9b9cd94ce",
+          "choice": {
+            "id": "f8dda1e1-f0c1-4453-991e-1ce94585a91e",
+            "name": "Untitled Template Choice",
+            "type": "Template",
+            "command": false,
+            "templatePath": "Templates/Person.md",
+            "fileNameFormat": {
+              "enabled": true,
+              "format": "{{VALUE: New Person}}"
+            },
+            "folder": {
+              "enabled": true,
+              "folders": [
+                "People"
+              ],
+              "chooseWhenCreatingNote": false,
+              "createInSameFolderAsActiveFile": false
+            },
+            "appendLink": false,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": true,
+            "openFileInMode": "default",
+            "setFileExistsBehavior": true,
+            "fileExistsMode": "Increment the file name"
+          }
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "📋 Quick Note",
+      "id": "39333781-24ab-4dc4-a9d7-c78091383695",
+      "commands": [
+        {
+          "name": "📋 Quick Note",
+          "type": "NestedChoice",
+          "id": "1a92c8f5-d04c-4efe-8777-d0bd765c8749",
+          "choice": {
+            "id": "352e956b-5331-4231-80b8-d815ff5a96a4",
+            "name": "📋 Quick Note",
+            "type": "Capture",
+            "command": false,
+            "appendLink": false,
+            "captureTo": "Journal/2023/{{DATE:YYYY-MM-DD}}.md",
+            "captureToActiveFile": false,
+            "createFileIfItDoesntExist": {
+              "enabled": false,
+              "createWithTemplate": false,
+              "template": ""
+            },
+            "format": {
+              "enabled": true,
+              "format": "- {{value}} \\n"
+            },
+            "insertAfter": {
+              "enabled": true,
+              "after": "### Notes:",
+              "insertAtEnd": true,
+              "createIfNotFound": false,
+              "createIfNotFoundLocation": "top"
+            },
+            "prepend": false,
+            "task": false,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": false,
+            "openFileInMode": "default"
+          }
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "↻ Log Habit",
+      "id": "f66e7746-638c-434f-b516-81811fd0c454",
+      "commands": [
+        {
+          "name": "g,r,f,s,w",
+          "type": "NestedChoice",
+          "id": "470f6490-a3a1-446d-a07b-c03666760068",
+          "choice": {
+            "id": "287f4d22-ff97-44b8-8c76-b61ea3493f03",
+            "name": "g,r,f,s,w",
+            "type": "Capture",
+            "command": false,
+            "appendLink": false,
+            "captureTo": "Journal/2023/{{DATE:YYYY-MM-DD}}.md",
+            "captureToActiveFile": false,
+            "createFileIfItDoesntExist": {
+              "enabled": false,
+              "createWithTemplate": false,
+              "template": ""
+            },
+            "format": {
+              "enabled": true,
+              "format": "- [{{value}}::✅] \\n"
+            },
+            "insertAfter": {
+              "enabled": true,
+              "after": "##### Habits",
+              "insertAtEnd": false,
+              "createIfNotFound": false,
+              "createIfNotFoundLocation": "top"
+            },
+            "prepend": false,
+            "task": false,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": false,
+            "openFileInMode": "default"
+          }
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "🏺 Log Memory",
+      "id": "017049b0-d4c9-4950-be8c-c10f111991c0",
+      "commands": [
+        {
+          "name": "🏺 Log Memory",
+          "type": "NestedChoice",
+          "id": "5f87816b-4c2a-4f56-b443-3414668fa012",
+          "choice": {
+            "id": "f1392be2-2d3c-43c0-9289-e51bc6f2a08b",
+            "name": "🏺 Log Memory",
+            "type": "Capture",
+            "command": false,
+            "appendLink": false,
+            "captureTo": "Resources/🏺 Memories - Looking Back.md",
+            "captureToActiveFile": false,
+            "createFileIfItDoesntExist": {
+              "enabled": false,
+              "createWithTemplate": false,
+              "template": ""
+            },
+            "format": {
+              "enabled": true,
+              "format": "- [[old-memory:: {{value}}]] \\n"
+            },
+            "insertAfter": {
+              "enabled": false,
+              "after": "",
+              "insertAtEnd": false,
+              "considerSubsections": false,
+              "createIfNotFound": false,
+              "createIfNotFoundLocation": "top"
+            },
+            "prepend": true,
+            "task": false,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": false,
+            "openFileInMode": "default"
+          }
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "📜 Log Quote",
+      "id": "e6800de5-84a7-4f6b-a078-65d28ac749cd",
+      "commands": [
+        {
+          "name": "📜 Log Quote",
+          "type": "NestedChoice",
+          "id": "5b3d1a0f-63c3-4ac0-801c-be61078a15a1",
+          "choice": {
+            "id": "f652fda0-a86d-412e-b9b2-32b7e7cbbbff",
+            "name": "📜 Log Quote",
+            "type": "Capture",
+            "command": false,
+            "appendLink": false,
+            "captureTo": "Resources/📜 Quotebook.md",
+            "captureToActiveFile": false,
+            "createFileIfItDoesntExist": {
+              "enabled": false,
+              "createWithTemplate": false,
+              "template": ""
+            },
+            "format": {
+              "enabled": true,
+              "format": "- [[quote:: {{value}}]] \\n"
+            },
+            "insertAfter": {
+              "enabled": false,
+              "after": "",
+              "insertAtEnd": false,
+              "considerSubsections": false,
+              "createIfNotFound": false,
+              "createIfNotFoundLocation": "top"
+            },
+            "prepend": true,
+            "task": false,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": false,
+            "openFileInMode": "default"
+          }
+        }
+      ],
+      "runOnStartup": false
+    }
+  ],
+  "inputPrompt": "single-line",
+  "devMode": false,
+  "templateFolderPath": "Templates",
+  "announceUpdates": true,
+  "version": "1.2.1",
+  "disableOnlineFeatures": true,
+  "ai": {
+    "OpenAIApiKey": "",
+    "defaultModel": "Ask me",
+    "defaultSystemPrompt": "As an AI assistant within Obsidian, your primary goal is to help users manage their ideas and knowledge more effectively. Format your responses using Markdown syntax. Please use the [[Obsidian]] link format. You can write aliases for the links by writing [[Obsidian|the alias after the pipe symbol]]. To use mathematical notation, use LaTeX syntax. LaTeX syntax for larger equations should be on separate lines, surrounded with double dollar signs ($$). You can also inline math expressions by wrapping it in $ symbols. For example, use $$w_{ij}^{\text{new}}:=w_{ij}^{\text{current}}+etacdotdelta_jcdot x_{ij}$$ on a separate line, but you can write \"($eta$ = learning rate, $delta_j$ = error term, $x_{ij}$ = input)\" inline.",
+    "promptTemplatesFolderPath": "",
+    "showAssistant": true
+  },
+  "migrations": {
+    "migrateToMacroIDFromEmbeddedMacro": true,
+    "useQuickAddTemplateFolder": true,
+    "incrementFileNameSettingMoveToDefaultBehavior": true,
+    "mutualExclusionInsertAfterAndWriteToBottomOfFile": true,
+    "setVersionAfterUpdateModalRelease": true
+  }
+}

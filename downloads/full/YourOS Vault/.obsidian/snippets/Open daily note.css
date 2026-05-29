@@ -1,0 +1,3 @@
+div[aria-label="Open today"] {
+  content: url("https://api.wolai.com/v1/icon?type=1&locale=en&it=0&color=grey");
+  }

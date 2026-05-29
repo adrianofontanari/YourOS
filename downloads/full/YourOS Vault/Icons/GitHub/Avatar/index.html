@@ -1,0 +1,56 @@
+<html>
+  <head>
+    <style>
+      .image-box {
+        width: 100%;
+        height: auto;
+        text-align: center;
+      }
+
+      img {
+        max-width: 100%;
+        max-height: 100%;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="image-box">
+      <img id="currentImage" />
+    </div>
+
+    <script>
+      function getCurrentTime() {
+        const date = new Date();
+        return `${date.getHours()}:${date.getMinutes()}`;
+      }
+
+      function updateImage() {
+        const currentTime = getCurrentTime();
+        let currentImage;
+        if (currentTime >= "08:00" && currentTime < "09:00") {
+          currentImage = "1.png";
+        } else if (currentTime >= "09:00" && currentTime < "12:00") {
+          currentImage = "2.png";
+        } else if (currentTime >= "12:00" && currentTime < "14:00") {
+          currentImage = "3.png";
+        } else if (currentTime >= "14:00" && currentTime < "18:00") {
+          currentImage = "2.png";
+        } else if (currentTime >= "18:00" && currentTime < "19:30") {
+          currentImage = "4.png";
+        } else if (currentTime >= "19:30" && currentTime < "20:30") {
+          currentImage = "3.png";
+        } else if (currentTime >= "20:30" && currentTime < "21:30") {
+          currentImage = "5.png";
+        } else if (currentTime >= "21:30" || currentTime < "00:00") {
+          currentImage = "6.png";
+        } else if (currentTime >= "00:00" || currentTime < "09:00") {
+          currentImage = "6.png";
+        }
+
+        document.getElementById("currentImage").src = currentImage;
+      }
+
+      setInterval(updateImage, 1000);
+    </script>
+  </body>
+  </html>
