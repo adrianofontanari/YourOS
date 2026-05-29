@@ -44,14 +44,14 @@ The handbook is available as browsable Markdown in
 
 | Path | Description |
 | --- | --- |
-| [`site/`](site/) | Static website (`youros.me`) |
+| [`site/`](site/) | Static website (`youros.adrianofontanari.com`) |
 | [`docs/handbook/`](docs/handbook/) | Handbook split into Markdown sections |
 | [`downloads/`](downloads/) | Unpacked Full and Analytics packages |
 | `Avatar/`, `Financials/` | Legacy YourOS embeddable widgets |
 
 ## Links
 
-- Website: https://www.youros.me
+- Website: https://youros.adrianofontanari.com
 - Product Hunt: https://www.producthunt.com/posts/youros
 
 ## License
