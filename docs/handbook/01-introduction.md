@@ -34,8 +34,8 @@ youros.configuration@gmail.com. Kindly note that depending on the volume of emai
 Adriano Fontanari
 - YourOS Official Website: https://youros.adrianofontanari.com/
 - Follow YourOS on Twitter: [@YourOS_me](https://twitter.com/YourOS_me)
-- Personal Website: https://adry-health.com/
+- Personal Website: https://adrianofontanari.com/
 
-**Copyright: [Adriano Fontanari](https://adry-health.com/) ([@adryhealth](https://twitter.com/adryhealth)) - Unauthorized distribution of YourOS is strictly prohibited.**
+**Copyright: [Adriano Fontanari](https://adrianofontanari.com/) ([@adryhealth](https://twitter.com/adryhealth)) - Unauthorized distribution of YourOS is strictly prohibited.**
 
 ---

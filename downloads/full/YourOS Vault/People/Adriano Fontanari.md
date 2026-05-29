@@ -17,7 +17,7 @@ aliases: [Adriano Fontanari, Adriano]
 - Email: youros.configuration@gmail.com
 - Phone: 
 - LinkedIn: https://www.linkedin.com/in/adrianofontanari/
-- Personal website: https://adry-health.com/
+- Personal website: https://adrianofontanari.com/
 - Official Website: https://youros.adrianofontanari.com/
 - Follow YourOS on Twitter: [@YourOS_me](https://twitter.com/YourOS_me)
 ## Linked Notes
@@ -35,4 +35,4 @@ line:
     fillGap: true
 ```
 ---
-**Copyright: [Adriano Fontanari](https://adry-health.com/) ([@adryhealth](https://twitter.com/adryhealth)) - Unauthorized distribution of YourOS is strictly prohibited**
+**Copyright: [Adriano Fontanari](https://adrianofontanari.com/) ([@adryhealth](https://twitter.com/adryhealth)) - Unauthorized distribution of YourOS is strictly prohibited**
